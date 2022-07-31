@@ -1,9 +1,13 @@
 # Modern JavaScript Deep-Dive
 
+세미나 진행 내용
+
+- 중요하다고 생각하는 내용 & 새롭게 알게된 내용 <각자 폴더에 정리 후 공유>
+- 함께 얘기하고 싶은 내용 <\seminar 폴더에 정리 후 공유>
+
 ## Week 1 (1 장 ~ 4 장)
 
-- [ ] 프로토타입
-- [ ] 인터프리터 언어
+- 프로토타입
 
 ## Week 2 (5 장 ~ 6 장)
 
@@ -11,8 +15,7 @@
 
 ## Week 3 (7 장 ~ 8 장)
 
-- [ ] 커리큘럼 정하기 (2022년 22주 남음)
-- [ ] While문, Switch문 등과 for문의 성능 비교
-- [ ] for문의 여러 용법
+- while문, switch문 등과 for문의 성능 비교
+- <a href="https://github.com/Mokoko-will-be-plant/js_deep-dive/tree/master/seminar/for문의%20여러%20용법">for문의 여러 용법</a>
 
-## Week 4 (9 장)
+## Week 4 (9 장 ~ 10 장)
