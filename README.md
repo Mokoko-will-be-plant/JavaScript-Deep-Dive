@@ -16,6 +16,6 @@
 ## Week 3 (7 장 ~ 8 장)
 
 - while문, switch문 등과 for문의 성능 비교
-- <a href="https://github.com/Mokoko-will-be-plant/js_deep-dive/tree/master/seminar/for문의%20여러%20용법">for문의 여러 용법</a>
+- <a href="https://github.com/Mokoko-will-be-plant/js_deep-dive/blob/master/seminar/for%EB%AC%B8%EC%9D%98%20%EC%97%AC%EB%9F%AC%20%EC%9A%A9%EB%B2%95.md">for문의 여러 용법</a>
 
 ## Week 4 (9 장 ~ 10 장)
