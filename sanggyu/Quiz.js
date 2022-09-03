@@ -25,11 +25,3 @@ const mokokoFamily = new mokoko('SangGyu');
  * 5. mokoko.growRoutine();
  * 6. mokokoFamily.growRoutine();
  */
-
- (function(mokokoFamily){
-    'use strict';
-
-    mokokoFamily = 'basicMokoko';
-
-    console.log(arguments);
-}('ExpertMokoko'));
