@@ -15,7 +15,7 @@ mokoko.growRoutine = function () {
 const mokokoFamily = new mokoko('SangGyu');
 
 /**
- * Quiz. 아래 3가지 함수를 각각 실행했을때 나올 올바른 결과는?
+ * Quiz. 아래 6가지 함수를 각각 실행했을때 나올 올바른 결과는?
  * 1. mokoko.resolveQuiz();
  * 2. mokokoFamily.resolveQuiz();
  * 
