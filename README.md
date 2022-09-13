@@ -218,17 +218,17 @@
    <tr>
         <td>20 장</td>
         <td/ >
-        <td><a>📖</a></td>
-        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/20%EC%9E%A5%20Strict%20Mode/%EC%83%81%EA%B7%9C.md">📖</a></td>
-        <td><a>📖</a></td>
-        <td><a>📖</a></td>
+        <td><a>📙</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/20%EC%9E%A5%20Strict%20Mode/%EC%83%81%EA%B7%9C.md">📒</a></td>
+        <td><a>📗</a></td>
+        <td><a>📘</a></td>
     </tr>
     <tr>
         <td rowspan="3">10 주차</td>
     </tr>
     <tr>
         <td>21 장</td>
-        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📕</a> </td>
         <td><a>📙</a> <a>💯</a></td>
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
