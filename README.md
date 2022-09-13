@@ -209,18 +209,295 @@
     </tr>
     <tr>
         <td>19 장</td>
-        <td><a>📖</a> <a>💯</a></td>
-        <td><a>📖</a> <a>💯</a></td>
-        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/19%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%86%A0%20%ED%83%80%EC%9E%85/%EC%83%81%EA%B7%9C.md">📖</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/19%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%86%A0%20%ED%83%80%EC%9E%85/%EC%83%81%EA%B7%9C.js">💯</a></td>
-        <td><a>📖</a> <a>💯</a></td>
-        <td><a>📖</a> <a>💯</a></td>
+        <td><a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/study/19%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%86%A0%20%ED%83%80%EC%9E%85/%EC%9B%90%EC%A7%84.md">📕</a> <a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/study/19%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%86%A0%20%ED%83%80%EC%9E%85/%EC%9B%90%EC%A7%84.md">💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/19%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%86%A0%20%ED%83%80%EC%9E%85/%EC%83%81%EA%B7%9C.md">📒</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/19%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%86%A0%20%ED%83%80%EC%9E%85/%EC%83%81%EA%B7%9C.js">💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
     </tr>
    <tr>
         <td>20 장</td>
-        <td><a>📖</a></td>
+        <td/ >
         <td><a>📖</a></td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/20%EC%9E%A5%20Strict%20Mode/%EC%83%81%EA%B7%9C.md">📖</a></td>
         <td><a>📖</a></td>
         <td><a>📖</a></td>
     </tr>
+    <tr>
+        <td rowspan="3">10 주차</td>
+    </tr>
+    <tr>
+        <td>21 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>22 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <!-- <tr>
+        <td rowspan="3">11 주차</td>
+    </tr>
+    <tr>
+        <td>23 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>24 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">12 주차</td>
+    </tr>
+    <tr>
+        <td>25 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>26 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">13 주차</td>
+    </tr>
+    <tr>
+        <td>27 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>28 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">14 주차</td>
+    </tr>
+    <tr>
+        <td>29 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>30 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">15 주차</td>
+    </tr>
+    <tr>
+        <td>31 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>32 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">16 주차</td>
+    </tr>
+    <tr>
+        <td>33 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>34 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">17 주차</td>
+    </tr>
+    <tr>
+        <td>35 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>36 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">18 주차</td>
+    </tr>
+    <tr>
+        <td>37 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>38 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">19 주차</td>
+    </tr>
+    <tr>
+        <td>39 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>40 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">20 주차</td>
+    </tr>
+    <tr>
+        <td>41 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>42 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">21 주차</td>
+    </tr>
+    <tr>
+        <td>43 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>44 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">22 주차</td>
+    </tr>
+    <tr>
+        <td>45 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>46 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">23 주차</td>
+    </tr>
+    <tr>
+        <td>47 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+   <tr>
+        <td>48 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr>
+    <tr>
+        <td rowspan="3">24 주차</td>
+    </tr>
+    <tr>
+        <td>49 장</td>
+        <td><a>📕</a> <a>💯</a></td>
+        <td><a>📙</a> <a>💯</a></td>
+        <td><a>📒</a> <a>💯</a></td>
+        <td><a>📗</a> <a>💯</a></td>
+        <td><a>📘</a> <a>💯</a></td>
+    </tr> -->
 </table>
