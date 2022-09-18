@@ -228,21 +228,21 @@
     </tr>
     <tr>
         <td>21 장</td>
-        <td><a>📕</a> </td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4/%EC%9B%90%EC%A7%84.md">📕</a> </td>
         <td><a>📙</a> <a>💯</a></td>
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td><a>📘</a></td>
     </tr>
    <tr>
         <td>22 장</td>
-        <td><a>📕</a> <a>💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/22%EC%9E%A5%20this/%EC%9B%90%EC%A7%84.md">📕</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/22%EC%9E%A5%20this/%EC%9B%90%EC%A7%84.js">💯</a></td>
         <td><a>📙</a> <a>💯</a></td>
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
     </tr>
-    <!-- <tr>
+    <tr>
         <td rowspan="3">11 주차</td>
     </tr>
     <tr>
@@ -261,7 +261,7 @@
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td rowspan="3">12 주차</td>
     </tr>
     <tr>
@@ -279,8 +279,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">13 주차</td>
     </tr>
     <tr>
@@ -298,8 +298,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">14 주차</td>
     </tr>
     <tr>
@@ -317,8 +317,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">15 주차</td>
     </tr>
     <tr>
@@ -336,8 +336,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">16 주차</td>
     </tr>
     <tr>
@@ -355,8 +355,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">17 주차</td>
     </tr>
     <tr>
@@ -374,8 +374,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">18 주차</td>
     </tr>
     <tr>
@@ -393,8 +393,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">19 주차</td>
     </tr>
     <tr>
@@ -412,8 +412,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">20 주차</td>
     </tr>
     <tr>
@@ -431,8 +431,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">21 주차</td>
     </tr>
     <tr>
@@ -469,8 +469,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">23 주차</td>
     </tr>
     <tr>
@@ -488,8 +488,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">24 주차</td>
     </tr>
     <tr>
