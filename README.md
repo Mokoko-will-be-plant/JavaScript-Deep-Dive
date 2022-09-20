@@ -232,9 +232,6 @@
         <td><a>📙</a> <a>💯</a></td>
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
-<<<<<<< HEAD
-        <td><a>📘</a></td>
-=======
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4/%EC%88%98%EB%B9%84.md">📘</a> <a>💯</a></td>
 >>>>>>> 6c04031bb058996e49f1f1e406abb5ca5b57a9f0
     </tr>
