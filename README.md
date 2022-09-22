@@ -213,7 +213,7 @@
         <td><a>📙</a> <a>💯</a></td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/19%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%86%A0%20%ED%83%80%EC%9E%85/%EC%83%81%EA%B7%9C.md">📒</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/19%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%86%A0%20%ED%83%80%EC%9E%85/%EC%83%81%EA%B7%9C.js">💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/19%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%86%A0%20%ED%83%80%EC%9E%85/%EC%88%98%EB%B9%84.md">📘</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/tree/master/quiz/19%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%86%A0%20%ED%83%80%EC%9E%85">💯</a></td>
     </tr>
    <tr>
         <td>20 장</td>
@@ -221,28 +221,29 @@
         <td><a>📙</a></td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/20%EC%9E%A5%20Strict%20Mode/%EC%83%81%EA%B7%9C.md">📒</a></td>
         <td><a>📗</a></td>
-        <td><a>📘</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/20%EC%9E%A5%20Strict%20Mode/%EC%88%98%EB%B9%84.md">📘</a></td>
     </tr>
     <tr>
         <td rowspan="3">10 주차</td>
     </tr>
     <tr>
         <td>21 장</td>
-        <td><a>📕</a> </td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4/%EC%9B%90%EC%A7%84.md">📕</a> </td>
         <td><a>📙</a> <a>💯</a></td>
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4/%EC%88%98%EB%B9%84.md">📘</a> <a>💯</a></td>
+>>>>>>> 6c04031bb058996e49f1f1e406abb5ca5b57a9f0
     </tr>
    <tr>
         <td>22 장</td>
-        <td><a>📕</a> <a>💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/22%EC%9E%A5%20this/%EC%9B%90%EC%A7%84.md">📕</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/22%EC%9E%A5%20this/%EC%9B%90%EC%A7%84.js">💯</a></td>
         <td><a>📙</a> <a>💯</a></td>
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4/%EC%88%98%EB%B9%84.md">📘</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/22%EC%9E%A5%20this/%EC%88%98%EB%B9%84.js">💯</a></td>
     </tr>
-    <!-- <tr>
+    <tr>
         <td rowspan="3">11 주차</td>
     </tr>
     <tr>
@@ -261,7 +262,7 @@
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td rowspan="3">12 주차</td>
     </tr>
     <tr>
@@ -279,8 +280,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">13 주차</td>
     </tr>
     <tr>
@@ -298,8 +299,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">14 주차</td>
     </tr>
     <tr>
@@ -317,8 +318,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">15 주차</td>
     </tr>
     <tr>
@@ -336,8 +337,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">16 주차</td>
     </tr>
     <tr>
@@ -355,8 +356,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">17 주차</td>
     </tr>
     <tr>
@@ -374,8 +375,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">18 주차</td>
     </tr>
     <tr>
@@ -393,8 +394,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">19 주차</td>
     </tr>
     <tr>
@@ -412,8 +413,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">20 주차</td>
     </tr>
     <tr>
@@ -431,8 +432,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">21 주차</td>
     </tr>
     <tr>
@@ -469,8 +470,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">23 주차</td>
     </tr>
     <tr>
@@ -488,8 +489,8 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td rowspan="3">24 주차</td>
     </tr>
     <tr>

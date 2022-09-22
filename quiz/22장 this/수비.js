@@ -15,7 +15,7 @@ const obj = {
   },
 };
 
-obj.foo();
+obj.hello();
 
 /**
  * Question
