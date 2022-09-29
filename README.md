@@ -20,12 +20,6 @@
 
 <hr><br>
 
-## _study columns_
-
-- <a href="https://velog.io/@wonjin95/replicate-performance-comparison">for문, while문 등 반복문의 성능 비교</a>
-
-<br>
-
 <table>
     <tr>
         <td />
@@ -266,7 +260,7 @@
     </tr>
     <tr>
         <td>25 장</td>
-        <td><a>📕</a> <a>💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%9B%90%EC%A7%84.md">📕</a> <a>💯</a></td>
         <td><a>📙</a> <a>💯</a></td>
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
