@@ -58,3 +58,7 @@ class Developer extends Mokoko {
 /**
  * Q1. 원진이는 당근마켓이 가고 싶어요. 코드로라도 보내주세요
  */
+
+const anotherWorld = new Developer();
+anotherWorld.anotherWorld("원진", "당근마켓");
+anotherWorld.getMembers();
