@@ -260,7 +260,7 @@
     </tr>
     <tr>
         <td>25 장</td>
-        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%9B%90%EC%A7%84.md">📕</a> <a>💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%9B%90%EC%A7%84.md">📕</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%9B%90%EC%A7%84.js">💯</a></td>
         <td><a>📙</a> <a>💯</a></td>
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
@@ -268,7 +268,7 @@
     </tr>
    <tr>
         <td>26 장</td>
-        <td><a>📕</a> <a>💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/26%EC%9E%A5%20ES6%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%B6%94%EA%B0%80%20%EA%B8%B0%EB%8A%A5/%EC%9B%90%EC%A7%84.md">📕</a></td>
         <td><a>📙</a> <a>💯</a></td>
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
@@ -287,7 +287,7 @@
     </tr>
    <tr>
         <td>28 장</td>
-        <td><a>📕</a> <a>💯</a></td>
+        <td><a>💯</a></td>
         <td><a>📙</a> <a>💯</a></td>
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
