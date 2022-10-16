@@ -212,9 +212,9 @@
    <tr>
         <td>20 장</td>
         <td/ >
-        <td><a>📙</a></td>
+        <td><a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/study/20%EC%9E%A5%20Strict%20Mode/%EC%9A%A9%EB%AF%BC.md">📙</a></td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/20%EC%9E%A5%20Strict%20Mode/%EC%83%81%EA%B7%9C.md">📒</a></td>
-        <td><a>📗</a></td>
+        <td><a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/study/20%EC%9E%A5%20Strict%20Mode/%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%8C%E1%85%B5.md">📗</a></td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/20%EC%9E%A5%20Strict%20Mode/%EC%88%98%EB%B9%84.md">📘</a></td>
     </tr>
     <tr>
@@ -223,17 +223,17 @@
     <tr>
         <td>21 장</td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4/%EC%9B%90%EC%A7%84.md">📕</a> </td>
-        <td><a>📙</a> <a>💯</a></td>
+        <td><a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/study/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4/%EC%9A%A9%EB%AF%BC.md">📙</a></td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4/%EC%83%81%EA%B7%9C.md">📒</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4/%EC%88%98%EB%B9%84.md">📘</a> <a>💯</a></td>
+        <td><a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/study/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4/%EC%9D%80%EC%A7%80.md">📗</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4/%EC%88%98%EB%B9%84.md">📘</a></td>
     </tr>
    <tr>
         <td>22 장</td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/22%EC%9E%A5%20this/%EC%9B%90%EC%A7%84.md">📕</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/22%EC%9E%A5%20this/%EC%9B%90%EC%A7%84.js">💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
+        <td><a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/study/22%EC%9E%A5%20this/%EC%9A%A9%EB%AF%BC.md">📙</a> <a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/quiz/22%EC%9E%A5%20this/%EC%9A%A9%EB%AF%BC.js">💯</a></td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/22%EC%9E%A5%20this/%EC%83%81%EA%B7%9C.md">📒</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/22%EC%9E%A5%20this/%EC%83%81%EA%B7%9C.js">💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
+        <td><a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/study/22%EC%9E%A5%20this/%EC%9D%80%EC%A7%80.md">📗</a></td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/21%EC%9E%A5%20%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4/%EC%88%98%EB%B9%84.md">📘</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/22%EC%9E%A5%20this/%EC%88%98%EB%B9%84.js">💯</a></td>
     </tr>
     <tr>
@@ -242,18 +242,18 @@
     <tr>
         <td>23 장</td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/23%EC%9E%A5%20%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/%EC%9B%90%EC%A7%84.md">📕</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/23%EC%9E%A5%20%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/%EC%9B%90%EC%A7%84.js">💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
+        <td><a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/study/23%EC%9E%A5%20%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/%EC%9A%A9%EB%AF%BC.md">📙</a> <a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/quiz/23%EC%9E%A5%20%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/%EC%9A%A9%EB%AF%BC.js">💯</a></td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/23%EC%9E%A5%20%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/%EC%83%81%EA%B7%9C.md">📒</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td><a>📗</a></td>
+        <td><a>📘</a></td>
     </tr>
    <tr>
         <td>24 장</td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/24%EC%9E%A5%20%ED%81%B4%EB%A1%9C%EC%A0%80/%EC%9B%90%EC%A7%84.md">📕</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/24%EC%9E%A5%20%ED%81%B4%EB%A1%9C%EC%A0%80/%EC%9B%90%EC%A7%84.js">💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
+        <td><a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/study/24%EC%9E%A5%20%ED%81%B4%EB%A1%9C%EC%A0%80/%EC%9A%A9%EB%AF%BC.md">📙</a> <a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/quiz/24%EC%9E%A5%20%ED%81%B4%EB%A1%9C%EC%A0%80/%EC%9A%A9%EB%AF%BC.js">💯</a></td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/24%EC%9E%A5%20%ED%81%B4%EB%A1%9C%EC%A0%80/%EC%83%81%EA%B7%9C.md">📒</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td><a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/study/24%EC%9E%A5%20%ED%81%B4%EB%A1%9C%EC%A0%80/%EC%9D%80%EC%A7%80.md">📗</a> <a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/quiz/24%EC%9E%A5%20%ED%81%B4%EB%A1%9C%EC%A0%80/%EC%9D%80%EC%A7%80.js">💯</a></td>
+        <td><a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/study/24%EC%9E%A5%20%ED%81%B4%EB%A1%9C%EC%A0%80/%EC%88%98%EB%B9%84.md">📘</a> <a href="https://github.com/wonjin-dev/JavaScript-Deep-Dive/blob/master/quiz/24%EC%9E%A5%20%ED%81%B4%EB%A1%9C%EC%A0%80/%EC%88%98%EB%B9%84.js">💯</a></td>
     </tr>
     <tr>
         <td rowspan="3">12 주차</td>
@@ -261,58 +261,58 @@
     <tr>
         <td>25 장</td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%9B%90%EC%A7%84.md">📕</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%9B%90%EC%A7%84.js">💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%9A%A9%EB%AF%BC.md">📙</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%83%81%EA%B7%9C.md">📒</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%83%81%EA%B7%9C.js">💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%9D%80%EC%A7%80.md">📗</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%9D%80%EC%A7%80.js">💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%88%98%EB%B9%84.md">📘</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/25%EC%9E%A5%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%88%98%EB%B9%84.js">💯</a></td>
     </tr>
    <tr>
         <td>26 장</td>
         <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/26%EC%9E%A5%20ES6%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%B6%94%EA%B0%80%20%EA%B8%B0%EB%8A%A5/%EC%9B%90%EC%A7%84.md">📕</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/26%EC%9E%A5%20ES6%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%B6%94%EA%B0%80%20%EA%B8%B0%EB%8A%A5/%EC%9A%A9%EB%AF%BC.md">📙</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/26%EC%9E%A5%20ES6%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%B6%94%EA%B0%80%20%EA%B8%B0%EB%8A%A5/%EC%83%81%EA%B7%9C.md">📒</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/26%EC%9E%A5%20ES6%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%B6%94%EA%B0%80%20%EA%B8%B0%EB%8A%A5/%EC%9D%80%EC%A7%80.md">📗</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/26%EC%9E%A5%20ES6%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%B6%94%EA%B0%80%20%EA%B8%B0%EB%8A%A5/%EC%9D%80%EC%A7%80.js">💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/26%EC%9E%A5%20ES6%20%ED%95%A8%EC%88%98%EC%9D%98%20%EC%B6%94%EA%B0%80%20%EA%B8%B0%EB%8A%A5/%EC%88%98%EB%B9%84.md">📘</a></td>
     </tr>
     <tr>
         <td rowspan="3">13 주차</td>
     </tr>
     <tr>
         <td>27 장</td>
-        <td><a>📕</a> <a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/27%EC%9E%A5%20%EB%B0%B0%EC%97%B4/%EC%9B%90%EC%A7%84.md">📕</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/27%EC%9E%A5%20%EB%B0%B0%EC%97%B4/%EC%9B%90%EC%A7%84.js">💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/27%EC%9E%A5%20%EB%B0%B0%EC%97%B4/%EC%9A%A9%EB%AF%BC.js">💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/27%EC%9E%A5%20%EB%B0%B0%EC%97%B4/%EC%83%81%EA%B7%9C.md">📒</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/27%EC%9E%A5%20%EB%B0%B0%EC%97%B4/%EC%9D%80%EC%A7%80.md">📗</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/27%EC%9E%A5%20%EB%B0%B0%EC%97%B4/%EC%9D%80%EC%A7%80.js">💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/27%EC%9E%A5%20%EB%B0%B0%EC%97%B4/%EC%88%98%EB%B9%84.md">📘</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/27%EC%9E%A5%20%EB%B0%B0%EC%97%B4/%EC%9D%80%EC%A7%80.js">💯</a></td>
     </tr>
    <tr>
         <td>28 장</td>
-        <td><a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/28%EC%9E%A5%20Number/%EC%83%81%EA%B7%9C.md">📒</a></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/28%EC%9E%A5%20Number/%EC%88%98%EB%B9%84.md">📘</a></td>
     </tr>
-    <!-- <tr>
+    <tr>
         <td rowspan="3">14 주차</td>
     </tr>
     <tr>
         <td>29 장</td>
-        <td><a>📕</a> <a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/29%EC%9E%A5%20Math/%EC%83%81%EA%B7%9C.md">📒</a></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/29%EC%9E%A5%20Math/%EC%88%98%EB%B9%84.md">📘</a></td>
     </tr>
    <tr>
         <td>30 장</td>
-        <td><a>📕</a> <a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
-    </tr> -->
-    <!-- <tr>
+        <td></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/30%EC%9E%A5%20Date/%EC%83%81%EA%B7%9C.md">📒</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/30%EC%9E%A5%20Date/%EC%83%81%EA%B7%9C.js">💯</a></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/30%EC%9E%A5%20Date/%EC%88%98%EB%B9%84.md">📘</a> <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/quiz/30%EC%9E%A5%20Date/%EC%88%98%EB%B9%84.js">💯</a></td>
+    </tr>
+    <tr>
         <td rowspan="3">15 주차</td>
     </tr>
     <tr>
@@ -321,7 +321,7 @@
         <td><a>📙</a> <a>💯</a></td>
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/31%EC%9E%A5%20RegExp/%EC%88%98%EB%B9%84.md">📘</a> <a>💯</a></td>
     </tr>
    <tr>
         <td>32 장</td>
@@ -330,7 +330,7 @@
         <td><a>📒</a> <a>💯</a></td>
         <td><a>📗</a> <a>💯</a></td>
         <td><a>📘</a> <a>💯</a></td>
-    </tr> -->
+    </tr>
     <!-- <tr>
         <td rowspan="3">16 주차</td>
     </tr>
