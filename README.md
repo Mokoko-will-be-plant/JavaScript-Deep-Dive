@@ -404,90 +404,92 @@
     </tr>
    <tr>
         <td>40 장</td>
-        <td><a>📕</a> <a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/40%EC%9E%A5%20%EC%9D%B4%EB%B2%A4%ED%8A%B8/%EC%9D%80%EC%A7%80.md">📗</a></td>
+        <td></td>
     </tr>
     <tr>
         <td>41 장</td>
-        <td><a>📕</a> <a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/41%EC%9E%A5%20%ED%83%80%EC%9D%B4%EB%A8%B8/%EC%88%98%EB%B9%84.md">📘</a></td>
     </tr>
     <tr>
         <td rowspan="5">21 주차</td>
     </tr>
     <tr>
         <td>42 장</td>
-        <td><a>📕</a> <a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/42%EC%9E%A5%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%83%81%EA%B7%9C.md">📒</a></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/42%EC%9E%A5%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%88%98%EB%B9%84.md">📘</a></td>
     </tr>
     <tr>
         <td>43 장</td>
-        <td><a>📕</a> <a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/43%EC%9E%A5%20AJax/%EC%88%98%EB%B9%84.md">📘</a></td>
     </tr>
     <tr>
         <td>44 장</td>
-        <td><a>📕</a> <a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td></td>
+        <td></td>
+        <td><a herf="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/44%EC%9E%A5%20REST%20API/%EC%83%81%EA%B7%9C.md">📒</a></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/44%EC%9E%A5%20REST%20API/%EC%88%98%EB%B9%84.md">📘</a></td>
     </tr>
     <tr>
         <td>45 장</td>
-        <td><a>📕</a> <a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/45%EC%9E%A5%20%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4/%EC%83%81%EA%B7%9C.md">📒</a></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/45%EC%9E%A5%20%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4/%EC%88%98%EB%B9%84.md">📘</a></td>
     </tr>
     <tr>
         <td rowspan="3">22 주차</td>
     </tr>
     <tr>
         <td>46 장</td>
-        <td><a>📕</a> <a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/blob/master/study/46%EC%9E%A5%20%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80%20AsyncAwait/%EC%83%81%EA%B7%9C.md">📒</a></td>
+        <td></td>
+        <td></td>
     <tr>
         <td>47 장</td>
-        <td><a>📕</a> <a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td rowspan="3">23 주차</td>
     </tr>
     <tr>
         <td>48 장</td>
-        <td><a>📕</a> <a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td>49 장</td>
-        <td><a>📕</a> <a>💯</a></td>
-        <td><a>📙</a> <a>💯</a></td>
-        <td><a>📒</a> <a>💯</a></td>
-        <td><a>📗</a> <a>💯</a></td>
-        <td><a>📘</a> <a>💯</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
+
+# <a href="https://github.com/Mokoko-will-be-plant/JavaScript-Deep-Dive/회고.md">회고</a>
